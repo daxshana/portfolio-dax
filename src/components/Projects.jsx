@@ -12,7 +12,7 @@ const Projects = () => {
       description:
         "Bhakshanam is a food delivery app that connects homemakers with customers looking for fresh, homemade food.",
       image: image2,
-      link: "https://bhakshanam-n5ahzdade-daxd0524-gmailcoms-projects.vercel.app",
+      link: "https://bhakshanam.vercel.app/",
     },
     {
       title: "Calculator",
