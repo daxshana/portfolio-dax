@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import image1 from '../img/IMG-20241009-WA0003.jpg';
+import image1 from '../img/933dbbc6-0c39-495b-891d-f39619d3f8b1.jpeg';
 import { FaLinkedin, FaGithub } from 'react-icons/fa'; // You can use react-icons for LinkedIn and GitHub icons
 
 const Hero = () => {
@@ -25,7 +25,8 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              I'm <span className="text-cyan-500">Daxshana Kirushnavelu </span>
+              I'm <span className="text-cyan-500"> Sarmini Saththiyanathan 
+              </span>
             </motion.h1>
 
             <motion.p
@@ -40,7 +41,7 @@ const Hero = () => {
             {/* Links to LinkedIn and GitHub */}
             <div className="flex space-x-6 mt-6">
               <a
-                href="http://linkedin.com/in/daxshana-kirushnavelu"
+                href="http://linkedin.com/in/sarmini-sarmi-721725310/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-cyan-500 hover:text-cyan-300 text-lg"
@@ -48,7 +49,7 @@ const Hero = () => {
                 <FaLinkedin className="h-8 w-8" />
               </a>
               <a
-                href="http://github.com/daxshana" 
+                href="http://github.com/sarminisarmi" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-cyan-500 hover:text-cyan-300 text-lg"

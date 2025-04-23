@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { CheckCircle, Download } from 'lucide-react';
-import image3 from '../img/IMG-20241009-WA0003.jpg';
+import image3 from '../img/933dbbc6-0c39-495b-891d-f39619d3f8b1.jpeg';
 
 const About = () => {
   return (
@@ -86,7 +86,7 @@ const About = () => {
             A Passionate Developer Who Loves to Code
           </h3>
           <p className="mb-8 text-lg leading-relaxed">
-            Hi! I'm <strong>Daxshana Kirushnavelu</strong>, a passionate coder with a deep interest in full-stack development.
+            Hi! I'm <strong></strong>, A passionate coder with a deep interest in full-stack development.
             I started my journey at UKi Coding School and now explore web technologies, crafting solutions
             with React, MongoDB, and Express. From Sri Lanka, I'm on a mission to create meaningful, user-friendly software.
           </p>
@@ -96,7 +96,8 @@ const About = () => {
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <li className="flex items-start md:items-center">
                 <span className="font-bold w-32 text-cyan-400">Name:</span>
-                <span className="text-lg">Daxshana Kirushnavelu</span>
+                <span className="text-lg"> Sarmini Saththiyanathan 
+                </span>
               </li>
               <li className="flex items-start md:items-center">
                 <span className="font-bold w-32 text-cyan-400">Address:</span>

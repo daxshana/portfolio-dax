@@ -23,8 +23,7 @@ const Skills = () => {
       icon: <FaJs className="text-yellow-500 w-16 h-16" />,
     },
     { name: "React", icon: <FaReact className="text-blue-400 w-16 h-16" /> },
-    { name: "Next.js", icon: <SiNextdotjs className="text-white w-16 h-16" /> },
-    {
+   {
       name: "MongoDB",
       icon: <SiMongodb className="text-green-500 w-16 h-16" />,
     },
@@ -48,10 +47,7 @@ const Skills = () => {
       name: "Tailwind CSS",
       icon: <SiTailwindcss className="text-blue-500 w-16 h-16" />,
     },
-    {
-      name: "Material UI",
-      icon: <SiMui className="text-blue-600 w-16 h-16" />,
-    },
+   
   ];
 
   return (

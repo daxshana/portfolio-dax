@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { VideoIcon } from 'lucide-react';
 import image7 from '../../src/components/assets/images/data-frames-in-python-banner_cgzjxy.jpeg';
-import image8 from '../img/IMG-20241009-WA0003.jpg';
-import image9 from '../components/assets/images/1_yDcqWU6UMaN5MV7XNwJpOQ.png';
+import image8 from '../../src/components/assets/images/1_yDcqWU6UMaN5MV7XNwJpOQ.png';
+import image9 from '../../src/components/assets/images/1_yDcqWU6UMaN5MV7XNwJpOQ.png';
 import image10 from '../components/assets/images/1_meRlZCH8FCY_kuwzRZYtZg.webp';
 
 const Blogs = () => {
@@ -15,12 +15,12 @@ const Blogs = () => {
       categories: ["Technology"],
       readTime: "2 mins read",
       author: {
-        name: "Daxshana",
+        name: "Sarmini",
         avatar: image8,
         date: "12 Sep 2024",
       },
       hasVideo: true,
-      link: "https://medium.com/@daxd0524/dataframe-489f6babc57d",
+      link: "https://medium.com/@sarminis1905/dataframe-1a4870ea04d4",
     },
     {
       id: 2,
@@ -29,12 +29,12 @@ const Blogs = () => {
       categories: ["Technology"],
       readTime: "3 mins read",
       author: {
-        name: "Daxshana",
+        name: "Sarmini",
         avatar: image8,
         date: "15 Sep 2024",
       },
       hasVideo: true,
-      link: "https://medium.com/@daxd0524/data-visualization-b5b3c5581f6a",
+      link: "https://medium.com/@sarminis1905/data-visualization-71daf526cda7",
     },
     {
       id: 3,
@@ -44,12 +44,12 @@ const Blogs = () => {
       categories: ["Tech", "Business"],
       readTime: "1 mins read",
       author: {
-        name: "Daxshana",
+        name: "Sarmini",
         avatar: image8,
         date: "04 Sep 2024",
       },
       hasVideo: false,
-      link: "https://medium.com/@daxd0524/an-experience-with-dr-sabesan-fef77dae9d3f",
+      link: "https://medium.com/@sarminis1905/dr-sabesan-sithamparanatha-98c5d87cd39f",
     },
   ];
 
